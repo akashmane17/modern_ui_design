@@ -5,5 +5,5 @@ A modern UI created using React and Tailwind CSS is a visually appealing and hig
 ### This is how it looks
 
   --- 
-  <img align="left" src="https://i.postimg.cc/x8Brpsdh/scrnli-9-27-2023-1-39-09-PM.png" />
+  <img align="center" src="https://i.postimg.cc/x8Brpsdh/scrnli-9-27-2023-1-39-09-PM.png" />
   
